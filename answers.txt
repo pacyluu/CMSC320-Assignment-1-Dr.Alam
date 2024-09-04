@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: You can have a lot of branches of code which can save your versions.
+        You don't have to use branches and all that if you don't want to, 
+        but just having the commit history and being able to roll back or recall different states is incredibly useful. 
+        Plus, Git is used in the workplace, so it is beneficial to learn it early in your career.
