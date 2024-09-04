@@ -11,3 +11,18 @@ Answer: Data science could be applied to any field that includes data. One field
         Companies may collect data about customers, and how often they buy certain products at certain prices, and how it influences
         their spending habits. By using this data, companies can make smarter decisions about what customers want, and
         potentially earn more profits for themselves.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: When you rebase your branch onto their branch, you tell Git to make it look as though you checked out their branch cleanly, 
+        then did all your work starting from there. That makes a clean, conceptually simple package of changes that someone can review. 
+        You can repeat this process again when there are new changes on their branch, 
+        and you will always end up with a clean set of changes "on the tip" of their branch.
+
+        When you merge their branch into your branch, you tie the two branch histories together at this point. 
+        If you do this again later with more changes, you begin to create an interleaved thread of histories: 
+        some of their changes, some of my changes, some of their changes. Some people find this messy or undesirable.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my python skills and learn more about data science to broaden my career opportunities.
