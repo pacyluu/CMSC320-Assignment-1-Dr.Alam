@@ -4,3 +4,10 @@ Answer: You can have a lot of branches of code which can save your versions.
         You don't have to use branches and all that if you don't want to, 
         but just having the commit history and being able to roll back or recall different states is incredibly useful. 
         Plus, Git is used in the workplace, so it is beneficial to learn it early in your career.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to any field that includes data. One field that it could apply to is marketing.
+        Companies may collect data about customers, and how often they buy certain products at certain prices, and how it influences
+        their spending habits. By using this data, companies can make smarter decisions about what customers want, and
+        potentially earn more profits for themselves.
